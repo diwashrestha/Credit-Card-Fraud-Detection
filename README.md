@@ -1,8 +1,8 @@
-# credit-card-fraud
+# Credit Card Fraud
 
 A credit card fraud detection system made with h2o and R.
 
-:link: to shiny app: https://diwashrestha.shinyapps.io/credit-card-fraud-detector/
+🔗 to shiny app: https://diwashrestha.shinyapps.io/credit-card-fraud-detector/
 
 How to open application in local environment:
 
@@ -12,7 +12,7 @@ How to open application in local environment:
 * Open the server.r or global.r or ui.r file and click on run app
 * This will open a shiny instance and you can see the app detecting the fraud in realtime session
 
-Technology or tools used:
+💻 Technology used:
 
 * Data Analysis
   - dplyr
@@ -34,7 +34,7 @@ Technology or tools used:
   - [https://www.kaggle.com/mlg-ulb/creditcardfraud](Data)
 
 
-### UI of The App
+### 📷 UI of The App
 ![](/img/img1.png)
 ![](/img/img2.png)
 ![](/img/img4.png)
