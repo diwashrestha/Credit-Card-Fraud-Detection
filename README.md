@@ -2,7 +2,7 @@
 
 A credit card fraud detection system made with h2o and R.
 
-🔗 to shiny app: https://diwashrestha.shinyapps.io/credit-card-fraud-detector/
+🔗 Project Report: 
 
 How to open application in local environment:
 
