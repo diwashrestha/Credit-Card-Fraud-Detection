@@ -2,7 +2,7 @@
 
 A credit card fraud detection system made with h2o and R.
 
-🔗 Project Report: [](https://github.com/diwashrestha/Credit-Card-Fraud-Detection/blob/master/Project%20Report%20Document.pdf)
+[🔗 Project Report](https://github.com/diwashrestha/Credit-Card-Fraud-Detection/blob/master/Project%20Report%20Document.pdf)
 
 How to open application in local environment:
 
